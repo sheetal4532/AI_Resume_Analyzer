@@ -1,16 +1,146 @@
-# React + Vite
+# 🤖 AI Resume Analyzer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered Resume Analyzer built with **React, Tailwind CSS, PDF.js, and Puter AI** that analyzes PDF resumes and provides ATS-style feedback, resume scoring, strengths, improvement suggestions, keywords, and actionable recommendations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+🔗 https://your-live-demo-link.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Project Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+(Add screenshots here)
+
+---
+
+## ✨ Features
+
+- 📄 Upload PDF Resume
+- 🤖 AI-powered Resume Analysis
+- 📊 Overall Resume Score
+- 📈 Performance Metrics
+- ✅ ATS Compatibility Check
+- 💡 Resume Improvement Suggestions
+- 🔍 Keyword Detection
+- 📋 Resume Presence Checklist
+- 🎯 Actionable Recommendations
+- ⚡ Fast PDF Text Extraction
+- 📱 Fully Responsive UI
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- PDF.js
+- Puter AI
+- Vite
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+│
+├── assets/
+├── App.jsx
+├── constants.js
+├── index.css
+└── main.jsx
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/ai-resume-analyzer.git
+```
+
+Go to project
+
+```bash
+cd ai-resume-analyzer
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+## 💻 How it Works
+
+1. Upload a PDF resume.
+2. PDF.js extracts the resume text.
+3. The extracted content is sent to Puter AI.
+4. AI analyzes the resume.
+5. The application displays:
+
+- Resume Score
+- ATS Compatibility
+- Strengths
+- Weaknesses
+- Missing Sections
+- Keywords
+- Suggestions
+- Action Items
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped me learn:
+
+- React State Management
+- AI API Integration
+- PDF Parsing
+- Prompt Engineering
+- Responsive UI Design
+- Component-based Architecture
+- Error Handling
+- JSON Parsing
+
+---
+
+## 📈 Future Improvements
+
+- Multiple Resume Templates
+- Cover Letter Generator
+- Resume Comparison
+- Download PDF Report
+- Dark / Light Theme
+- User Authentication
+- Resume History
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**
+
+LinkedIn:
+https://linkedin.com/in/your-link
+
+GitHub:
+https://github.com/yourusername
+
+---
+
+⭐ If you like this project, don't forget to star the repository.
