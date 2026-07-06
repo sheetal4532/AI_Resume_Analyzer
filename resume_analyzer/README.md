@@ -1,4 +1,4 @@
-# 🤖 AI Resume Analyzer
+<img width="1276" height="639" alt="Screenshot (1455)(1)" src="https://github.com/user-attachments/assets/2a451165-2579-4c3f-aa65-d3ef6a870fe1" /><img width="1310" height="617" alt="image" src="https://github.com/user-attachments/assets/4b172796-8ab9-4b20-8ec7-d1489185483b" /><img width="1308" height="630" alt="image" src="https://github.com/user-attachments/assets/a6a7fd79-88e7-438d-ac5a-2ad9c2fffd01" /># 🤖 AI Resume Analyzer
 
 An AI-powered Resume Analyzer built with **React, Tailwind CSS, PDF.js, and Puter AI** that analyzes PDF resumes and provides ATS-style feedback, resume scoring, strengths, improvement suggestions, keywords, and actionable recommendations.
 
@@ -12,7 +12,6 @@ An AI-powered Resume Analyzer built with **React, Tailwind CSS, PDF.js, and Pute
 
 ## 📸 Project Preview
 
-(Add screenshots here)
 
 ---
 
@@ -62,7 +61,7 @@ src/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-resume-analyzer.git
+git clone https://github.com/sheetal4532/ai-resume-analyzer.git
 ```
 
 Go to project
@@ -132,15 +131,10 @@ This project helped me learn:
 ---
 
 ## 👨‍💻 Author
-
-**Your Name**
+Sheetal Prajapati
 
 LinkedIn:
-https://linkedin.com/in/your-link
+https://www.linkedin.com/in/sheetal-p-482932183/
 
 GitHub:
-https://github.com/yourusername
-
----
-
-⭐ If you like this project, don't forget to star the repository.
+https://github.com/sheetal4532/AI_Resume_Analyzer
